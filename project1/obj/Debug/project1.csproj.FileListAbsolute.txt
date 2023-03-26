@@ -1,0 +1,7 @@
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Desktop\Dotnet_ConsoleApp\Capstone_25\project1\bin\Debug\project1.exe.config
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Desktop\Dotnet_ConsoleApp\Capstone_25\project1\bin\Debug\project1.exe
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Desktop\Dotnet_ConsoleApp\Capstone_25\project1\bin\Debug\project1.pdb
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Desktop\Dotnet_ConsoleApp\Capstone_25\project1\obj\Debug\project1.csproj.AssemblyReference.cache
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Desktop\Dotnet_ConsoleApp\Capstone_25\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Desktop\Dotnet_ConsoleApp\Capstone_25\project1\obj\Debug\project1.exe
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Desktop\Dotnet_ConsoleApp\Capstone_25\project1\obj\Debug\project1.pdb
