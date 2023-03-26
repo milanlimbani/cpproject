@@ -48,13 +48,14 @@ namespace project1
         //}
         public void DeleteProducts(string name)
         {
-            var pname = ProductData.Single(each => each.ProductName == name);
-            ProductData.Remove(pname);
+            //var pname = ProductData.Single(each => each.ProductName == name);
+            //ProductData.Remove(pname);
+            var remove = ProductData.Where(a => a.ProductName == name);
+            ProductData = ProductData.Except(remove).ToList();
             foreach (var p in ProductData)
             {
                 Console.WriteLine($" Product Id : {p.Productid} \t Product Name : {p.ProductName}");
             }
-            Console.WriteLine("Delete Product Successfully :) ");
         }
         public void UpdateProduct(string Originalvalue, string Uservalue, int qty, int price)
         {
